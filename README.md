@@ -1,9 +1,9 @@
 # PHP with JSON Web Token
 Learn PHP Session Management with JSON Web Token (JWT)
 
-## Cara Menggunakan
+## How to use
 
-1. Clone atau download repositori ini
+1. Clone this repository
 
    ```
    git clone https://github.com/rizqisetiaji7/phpjwt.git
