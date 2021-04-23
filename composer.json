@@ -1,0 +1,13 @@
+{
+    "name": "rizqisetiaji/phpjwt",
+    "description": "Session Management PHP with JWT",
+    "authors": [
+        {
+            "name": "Rizqi Setiaji",
+            "email": "rizqisetiaji9@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
