@@ -8,3 +8,7 @@ Learn PHP Session Management with JSON Web Token (JWT)
    ```
    git clone https://github.com/rizqisetiaji7/phpjwt.git
    ```
+2. Install composer dependencies
+   ```
+   composer install
+   ```
